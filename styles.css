@@ -1,0 +1,9 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-size: 60px;
+  color: darkblue;
+  background-color: yellow;
+}
